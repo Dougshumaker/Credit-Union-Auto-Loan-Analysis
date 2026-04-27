@@ -13,3 +13,4 @@ INNER JOIN cu_directory AS d
 WHERE a.cycle_date = (SELECT MAX(cycle_date) FROM auto_loans)
 ORDER BY total_delinquency DESC
 LIMIT 25;
+ 
