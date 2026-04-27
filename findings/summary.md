@@ -30,3 +30,16 @@ reflects structural seasonal behavior rather than a deteriorating credit environ
 
 Used vehicle delinquency runs consistently 3x higher than new vehicle delinquency 
 across all 8 quarters.
+
+---
+
+## Q3: Which credit unions showed the biggest delinquency increase over the period?
+
+Navy Federal Credit Union showed the largest absolute delinquency increase from 
+2024-Q1 to 2025-Q4 at $121.4M, consistent with its position as the largest 
+institution in the dataset. More notable is FourLeaf Federal Credit Union, which 
+showed a 712% increase over the same period — a significant outlier that warrants 
+closer inspection regardless of its absolute size.
+
+The top 25 institutions by absolute increase ranged from $121.4M (Navy Federal) 
+down to $11.4M (CommunityAmerica).
