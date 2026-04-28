@@ -43,3 +43,14 @@ closer inspection regardless of its absolute size.
 
 The top 25 institutions by absolute increase ranged from $121.4M (Navy Federal) 
 down to $11.4M (CommunityAmerica).
+
+---
+
+## Q4: What is the ratio of used vs new vehicle delinquency?
+
+Used vehicle delinquency dominates new vehicle delinquency across the industry.
+Among the top 25 institutions by ratio, Community First shows the most extreme
+skew at 19,141:1 — likely reflecting a portfolio heavily concentrated in used
+vehicle lending with minimal new vehicle exposure. Even excluding extreme outliers,
+ratios in the hundreds are common, reinforcing the Q2 finding that used vehicle
+delinquency is the primary driver of credit stress industry-wide.
