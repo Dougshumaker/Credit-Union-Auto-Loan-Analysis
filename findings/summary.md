@@ -54,3 +54,18 @@ skew at 19,141:1 — likely reflecting a portfolio heavily concentrated in used
 vehicle lending with minimal new vehicle exposure. Even excluding extreme outliers,
 ratios in the hundreds are common, reinforcing the Q2 finding that used vehicle
 delinquency is the primary driver of credit stress industry-wide.
+
+---
+
+## Q5: Does credit union size correlate with auto loan delinquency rate?
+
+When measuring delinquency as a percentage of total loan balance, the largest 
+institutions disappear from the top of the list entirely. Navy Federal, which 
+ranked #1 in raw delinquency dollars in Q1, has a delinquency rate of roughly 
+1.25% — well managed relative to its portfolio size. The most stressed institutions 
+by rate are smaller credit unions, with POLAM leading at 14.64%, followed by 
+Metropolitan Church at 12.59% and Friona Texas at 12.03%.
+
+Size does not correlate with delinquency rate — in fact the largest institutions 
+tend to have the most controlled rates, while smaller institutions show the most 
+concentrated credit stress.
